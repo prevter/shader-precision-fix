@@ -1,0 +1,17 @@
+{
+	"geode": "5.6.1",
+	"gd": {
+		"android": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "prevter.shader-precision-fix",
+	"name": "Shader Precision Fix",
+	"version": "v1.0.0",
+	"developer": "prevter",
+	"description": "Say goodbye to 10 bits of precision!",
+	"early-load": true,
+	"tags": [
+		"enhancement",
+		"bugfix"
+	]
+}
