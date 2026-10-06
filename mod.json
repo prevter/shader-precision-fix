@@ -6,10 +6,13 @@
 	},
 	"id": "prevter.shader-precision-fix",
 	"name": "Shader Precision Fix",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "prevter",
 	"description": "Say goodbye to 10 bits of precision!",
 	"early-load": true,
+	"links": {
+		"source": "https://github.com/prevter/shader-precision-fix"
+	},
 	"tags": [
 		"enhancement",
 		"bugfix"
